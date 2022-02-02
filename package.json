@@ -1,0 +1,20 @@
+{
+  "name": "random-quotes",
+  "version": "1.0.0",
+  "description": "Simple node.js application for a class that prints random quotes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaytlares/random-quotes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaytlares/random-quotes/issues"
+  },
+  "homepage": "https://github.com/kaytlares/random-quotes#readme"
+}
