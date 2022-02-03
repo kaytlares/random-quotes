@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/kaytlares/random-quotes.git"
   },
+  "type":"module",
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -17,4 +18,5 @@
     "url": "https://github.com/kaytlares/random-quotes/issues"
   },
   "homepage": "https://github.com/kaytlares/random-quotes#readme"
+  
 }
